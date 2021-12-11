@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomazzoBr
-- 👀 I’m interested in
+- 👀 I’m interested in participating in big and exciting projects!
 - 🌱 I’m currently learning React-native
 - 💞️ I’m looking to collaborate on incredible projects!
 - 📫 How to reach me https://www.linkedin.com/in/tomazzo-antonioli/
