@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TomazzoBr
 - 👀 I’m interested in
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React-native
+- 💞️ I’m looking to collaborate on incredible projects!
+- 📫 How to reach me https://www.linkedin.com/in/tomazzo-antonioli/
 
 <!---
 TomazzoBr/TomazzoBr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
