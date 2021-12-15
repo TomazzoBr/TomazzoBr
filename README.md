@@ -6,9 +6,9 @@
 
 - 👀 I’m interested in participating in big and exciting projects!
 
-- 💞️ I’m looking to collaborate on activities that aim to improve life quality, equality and sustainability.
+- I’m looking to collaborate on activities that aim to improve life quality, equality and sustainability.
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tomazzo-antonioli/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tomazzo-antonioli/)
 
 <!---
 TomazzoBr/TomazzoBr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
